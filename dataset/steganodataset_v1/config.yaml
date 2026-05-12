@@ -1,0 +1,1048 @@
+- image_path: data/00f56e5c92.jpg
+  source_caption: a baby badger cub is walking through the grass
+  target_caption: a baby raccoon cub is walking through the grass
+  optional_control: none
+- image_path: data/01d7ea45ff.jpg
+  source_caption: a lizard with its tongue open standing on the edge of a log
+  target_caption: a gecko with its tongue open standing on the edge of a log
+  optional_control: none
+- image_path: data/0428fff264.jpg
+  source_caption: two horses are embracing each other in the desert
+  target_caption: two zebras are embracing each other in the desert
+  optional_control: none
+- image_path: data/05b9d482c1.jpg
+  source_caption: a dolphin jumps out of the water
+  target_caption: a porpoise jumps out of the water
+  optional_control: none
+- image_path: data/06bc2c2f26.jpg
+  source_caption: white duck walking on pavement next to shrubbery
+  target_caption: white goose walking on pavement next to shrubbery
+  optional_control: none
+- image_path: data/0b291cfc2c.jpg
+  source_caption: a gold fish in the aquarium looks around
+  target_caption: a silver fish in the aquarium looks around
+  optional_control: none
+- image_path: data/0cc3c3606e.jpg
+  source_caption: two jellyfish in an aquarium with a green background
+  target_caption: two sea anemones in an aquarium with a green background
+  optional_control: none
+- image_path: data/0ce2e70635.jpg
+  source_caption: the mosquito is sitting on the human arm
+  target_caption: the fly is sitting on the human arm
+  optional_control: none
+- image_path: data/0db5ad156e.jpg
+  source_caption: a cater on a leaf that is on top of the ground
+  target_caption: a millipede on a leaf that is on top of the ground
+  optional_control: none
+- image_path: data/0eb51dddee.jpg
+  source_caption: a pigeon standing on top of a blanket with jewelry around its neck
+  target_caption: a dove standing on top of a blanket with jewelry around its neck
+  optional_control: none
+- image_path: data/0f25da5a86.jpg
+  source_caption: a deer in a field of grass looking straight ahead
+  target_caption: an antelope in a field of grass looking straight ahead
+  optional_control: none
+- image_path: data/13fcd75890.jpg
+  source_caption: there are two white rhinoceros walking in the dirt
+  target_caption: there are two white hippos walking in the dirt
+  optional_control: none
+- image_path: data/170fbf53cb.jpg
+  source_caption: an elephant seal laying down in the sand
+  target_caption: a walrus laying down in the sand
+  optional_control: none
+- image_path: data/177bc31f99.jpg
+  source_caption: a brown and white cow standing on a green field
+  target_caption: a brown and white goat standing on a green field
+  optional_control: none
+- image_path: data/17fd28dbd4.jpg
+  source_caption: a brown buffalo standing in tall grass in front of trees
+  target_caption: a brown bison standing in tall grass in front of trees
+  optional_control: none
+- image_path: data/18eebf095c.jpg
+  source_caption: a big mule deer stands in the tall grass
+  target_caption: a big elk stands in the tall grass
+  optional_control: none
+- image_path: data/19a58feb1a.jpg
+  source_caption: an image of a eagle in the wild
+  target_caption: an image of a hawk in the wild
+  optional_control: none
+- image_path: data/1aa6dc989c.jpg
+  source_caption: a grey and orange duck in a river
+  target_caption: a grey and orange swan in a river
+  optional_control: none
+- image_path: data/1aa750c6dd.jpg
+  source_caption: a penguin stands in the middle of a snowy field
+  target_caption: a puffin stands in the middle of a snowy field
+  optional_control: none
+- image_path: data/1b252b4e31.jpg
+  source_caption: a brown mouse stands on top of some moss
+  target_caption: a brown rat stands on top of some moss
+  optional_control: none
+- image_path: data/1cd5f3f7b6.jpg
+  source_caption: an adult orangutan is sitting on some rocks and scratching his head
+  target_caption: an adult chimpanzee is sitting on some rocks and scratching his
+    head
+  optional_control: none
+- image_path: data/1d03119184.jpg
+  source_caption: ladybird with white dots on its body on green leaf
+  target_caption: a beetle with white dots on its body on green leaf
+  optional_control: none
+- image_path: data/1d10bafb30.jpg
+  source_caption: a large, black and white bird is standing on top of a piece of wood
+  target_caption: a large, black and white stork is standing on top of a piece of
+    wood
+  optional_control: none
+- image_path: data/1d67a85be8.jpg
+  source_caption: the little monkey is sitting on top of a piece of wood
+  target_caption: the little marmoset is sitting on top of a piece of wood
+  optional_control: none
+- image_path: data/1dc8f1229c.jpg
+  source_caption: the small, spotted brown hyene is standing in the grass
+  target_caption: the small, spotted brown jackal is standing in the grass
+  optional_control: none
+- image_path: data/1ea50bb446.jpg
+  source_caption: a deer standing in the snow on top of a slope
+  target_caption: a reindeer standing in the snow on top of a slope
+  optional_control: none
+- image_path: data/1f3883417c.jpg
+  source_caption: a koala is sitting on a branch with the other koala in the background
+  target_caption: a tree kangaroo is sitting on a branch with the other tree kangaroo
+    in the background
+  optional_control: none
+- image_path: data/1f73b47867.jpg
+  source_caption: an adult wolf with it's mouth open and tongue hanging out, standing
+    in
+  target_caption: an adult fox with it's mouth open and tongue hanging out, standing
+    in
+  optional_control: none
+- image_path: data/218f3a3708.jpg
+  source_caption: a cockroach on the floor staring into the camera
+  target_caption: a beetle on the floor staring into the camera
+  optional_control: none
+- image_path: data/25aaedbf97.jpg
+  source_caption: a leopard is walking on dirt next to it's baby
+  target_caption: a cheetah is walking on dirt next to it's baby
+  optional_control: none
+- image_path: data/27ba879f67.jpg
+  source_caption: a black and white photo of an adorable hedgehog
+  target_caption: a black and white photo of an adorable guinea pig
+  optional_control: none
+- image_path: data/2806fe642b.jpg
+  source_caption: a kangaroo stands up in a tall grassy area
+  target_caption: a wallaby stands up in a tall grassy area
+  optional_control: none
+- image_path: data/29f606332b.jpg
+  source_caption: a large penguin walking through the snow
+  target_caption: a large albatross walking through the snow
+  optional_control: none
+- image_path: data/2a74dd288c.jpg
+  source_caption: small pug puppy sitting on the ground and looking forward
+  target_caption: small beagle puppy sitting on the ground and looking forward
+  optional_control: none
+- image_path: data/2aa3741f89.jpg
+  source_caption: a large bird is standing in the grass
+  target_caption: a large egret is standing in the grass
+  optional_control: none
+- image_path: data/2acef46f5b.jpg
+  source_caption: the kangaroo stands with a baby in it's pouch
+  target_caption: the wallaby stands with a baby in it's pouch
+  optional_control: none
+- image_path: data/2b455bb950.jpg
+  source_caption: a fly is sitting on a wooden surface
+  target_caption: a mosquito is sitting on a wooden surface
+  optional_control: none
+- image_path: data/2b60bdb95d.jpg
+  source_caption: a large shark swimming through the blue water
+  target_caption: a large dolphin swimming through the blue water
+  optional_control: none
+- image_path: data/2cd0c57bad.jpg
+  source_caption: there is a seahorse that looks like a fish in an aquarium
+  target_caption: there is a pipefish that looks like a fish in an aquarium
+  optional_control: none
+- image_path: data/2d670c088a.jpg
+  source_caption: a big lion looks intently ahead as it rests
+  target_caption: a big leopard looks intently ahead as it rests
+  optional_control: none
+- image_path: data/2dd3390eef.jpg
+  source_caption: a small furry dog standing next to trees
+  target_caption: a small furry cat standing next to trees
+  optional_control: none
+- image_path: data/301d649169.jpg
+  source_caption: a close up image of a kangaroo in the wilderness
+  target_caption: a close up image of a wallaby in the wilderness
+  optional_control: none
+- image_path: data/31f5cff0e6.jpg
+  source_caption: a small bird sitting on a wire fence
+  target_caption: a small sparrow sitting on a wire fence
+  optional_control: none
+- image_path: data/337a5cb5b4.jpg
+  source_caption: a tiger walking across a field next to trees
+  target_caption: a jaguar walking across a field next to trees
+  optional_control: none
+- image_path: data/33d648fe94.jpg
+  source_caption: the animal has long wings flying over it
+  target_caption: the animal has long wings flying over it
+  optional_control: none
+- image_path: data/34d54d8b70.jpg
+  source_caption: a lizard sitting on top of a rock
+  target_caption: a gecko sitting on top of a rock
+  optional_control: none
+- image_path: data/355a292afc.jpg
+  source_caption: a lone lion stands in the sun and waits on a hilltop
+  target_caption: a lone cougar stands in the sun and waits on a hilltop
+  optional_control: none
+- image_path: data/374e5141fb.jpg
+  source_caption: a large raccoon with his mouth open showing it's teeth
+  target_caption: a large badger with his mouth open showing it's teeth
+  optional_control: none
+- image_path: data/39ae72da61.jpg
+  source_caption: a gray cat with orange eyes and a black nose
+  target_caption: a gray fox with orange eyes and a black nose
+  optional_control: none
+- image_path: data/3d828ee706.jpg
+  source_caption: a black bird perched on top of a rock
+  target_caption: a black raven perched on top of a rock
+  optional_control: none
+- image_path: data/41fc953f8d.jpg
+  source_caption: a couple of stuffed rabbits sitting in the grass
+  target_caption: a couple of stuffed squirrels sitting in the grass
+  optional_control: none
+- image_path: data/47e15465e6.jpg
+  source_caption: an albino deer with pink antlers standing in the grass
+  target_caption: an albino elk with pink antlers standing in the grass
+  optional_control: none
+- image_path: data/47ef39ceb6.jpg
+  source_caption: there is a colorful bird perched on a tree stump
+  target_caption: there is a colorful parrot perched on a tree stump
+  optional_control: none
+- image_path: data/495ee7079c.jpg
+  source_caption: a lone bird flying in the blue sky
+  target_caption: a lone eagle flying in the blue sky
+  optional_control: none
+- image_path: data/4a03a31194.jpg
+  source_caption: a blue dragonfly resting on a small leaf
+  target_caption: a blue damselfly resting on a small leaf
+  optional_control: none
+- image_path: data/4a291fe31f.jpg
+  source_caption: an elephant in the mud in front of water
+  target_caption: a rhinoceros in the mud in front of water
+  optional_control: none
+- image_path: data/4c357a6907.jpg
+  source_caption: black and white cow standing in a grassy field
+  target_caption: black and white sheep standing in a grassy field
+  optional_control: none
+- image_path: data/4c6ec7185d.jpg
+  source_caption: a lion lays in the grass while laying down
+  target_caption: a tiger lays in the grass while laying down
+  optional_control: none
+- image_path: data/4df813f7f1.jpg
+  source_caption: the puppy has white patches around his eyes
+  target_caption: the kitten has white patches around his eyes
+  optional_control: none
+- image_path: data/4ebd97228c.jpg
+  source_caption: a small, furry animal sitting on top of a metal floor
+  target_caption: a small, furry hamster sitting on top of a metal floor
+  optional_control: none
+- image_path: data/52cb2d1360.jpg
+  source_caption: a close up of a squirrel with it's mouth open
+  target_caption: a close up of a chipmunk with it's mouth open
+  optional_control: none
+- image_path: data/5358ba1f24.jpg
+  source_caption: a large brown buffalo standing in an open field
+  target_caption: a large brown ox standing in an open field
+  optional_control: none
+- image_path: data/56b19e9dbc.jpg
+  source_caption: a colorful bird perched on top of a green plant
+  target_caption: a colorful finch perched on top of a green plant
+  optional_control: none
+- image_path: data/57ea7d5485.jpg
+  source_caption: jelly fish swimming in the blue water
+  target_caption: sea anemone swimming in the blue water
+  optional_control: none
+- image_path: data/581b06830c.jpg
+  source_caption: close up of a geckoll that has an open mouth
+  target_caption: close up of a chameleon that has an open mouth
+  optional_control: none
+- image_path: data/58ad4b9ce1.jpg
+  source_caption: a striped hyenne is standing in the dirt
+  target_caption: a striped jackal is standing in the dirt
+  optional_control: none
+- image_path: data/592e4eb886.jpg
+  source_caption: a close up of an eagle with it's head turned sideways
+  target_caption: a close up of a hawk with it's head turned sideways
+  optional_control: none
+- image_path: data/59de383d63.jpg
+  source_caption: a chimpan sitting on top of a wooden log
+  target_caption: a gorilla sitting on top of a wooden log
+  optional_control: none
+- image_path: data/5a2cf23a16.jpg
+  source_caption: a red crested woodpecker sitting on the side of a wooden birdhouse
+  target_caption: a red crested cardinal sitting on the side of a wooden birdhouse
+  optional_control: none
+- image_path: data/5ccaa39d41.jpg
+  source_caption: a wolf stands in an open grassy field
+  target_caption: a coyote stands in an open grassy field
+  optional_control: none
+- image_path: data/5ce71f71e4.jpg
+  source_caption: the duck is standing alone in the room
+  target_caption: the goose is standing alone in the room
+  optional_control: none
+- image_path: data/5f5ea4a88e.jpg
+  source_caption: a fly on a green leaf in a park
+  target_caption: a dragonfly on a green leaf in a park
+  optional_control: none
+- image_path: data/603a820424.jpg
+  source_caption: a bee with black and white markings sits on yellow flowers
+  target_caption: a wasp with black and white markings sits on yellow flowers
+  optional_control: none
+- image_path: data/6296ca5ccf.jpg
+  source_caption: a black and white cat sitting in the grass
+  target_caption: a black and white dog sitting in the grass
+  optional_control: none
+- image_path: data/6670d76613.jpg
+  source_caption: an insect is sitting on some leaf
+  target_caption: a caterpillar is sitting on some leaf
+  optional_control: none
+- image_path: data/69da015101.jpg
+  source_caption: a turtle swimming over water next to a green object
+  target_caption: a tortoise swimming over water next to a green object
+  optional_control: none
+- image_path: data/6b6b0ec80d.jpg
+  source_caption: a squirrel in the wild with its tail hanging out and an ear to eat
+  target_caption: a chipmunk in the wild with its tail hanging out and an ear to eat
+  optional_control: none
+- image_path: data/6d07c435dd.jpg
+  source_caption: a large gray elephant standing next to a tall tree
+  target_caption: a large gray rhinoceros standing next to a tall tree
+  optional_control: none
+- image_path: data/70ca2955fc.jpg
+  source_caption: an orange fox walking down a street with trees in the background
+  target_caption: an orange cat walking down a street with trees in the background
+  optional_control: none
+- image_path: data/70ece7f251.jpg
+  source_caption: a close up of an animal with a large horned face
+  target_caption: a close up of an animal with a large horned goat
+  optional_control: none
+- image_path: data/74e2569633.jpg
+  source_caption: a rabbit with a brown head sitting in the dirt
+  target_caption: a guinea pig with a brown head sitting in the dirt
+  optional_control: none
+- image_path: data/76efb6a467.jpg
+  source_caption: a sheep looks at the camera and standing in the grass
+  target_caption: a goat looks at the camera and standing in the grass
+  optional_control: none
+- image_path: data/778d849672.jpg
+  source_caption: a wolf walking across a dirt field next to trees
+  target_caption: a coyote walking across a dirt field next to trees
+  optional_control: none
+- image_path: data/77a94a1980.jpg
+  source_caption: the bird is standing alone on the rocks by the water
+  target_caption: the sparrow is standing alone on the rocks by the water
+  optional_control: none
+- image_path: data/7ace742b61.jpg
+  source_caption: wet otter standing on its hind legs with the zoo keeper in the background
+  target_caption: wet weasel standing on its hind legs with the zoo keeper in the
+    background
+  optional_control: none
+- image_path: data/7be18d2d89.jpg
+  source_caption: the closeup of a tiger face is shown with green background
+  target_caption: the closeup of a leopard face is shown with green background
+  optional_control: none
+- image_path: data/7bfbd4056d.jpg
+  source_caption: a rhino walking on a dirt path
+  target_caption: a buffalo walking on a dirt path
+  optional_control: none
+- image_path: data/7c43d5ca9e.jpg
+  source_caption: a dog is sitting in the grass with yellow flowers
+  target_caption: a cat is sitting in the grass with yellow flowers
+  optional_control: none
+- image_path: data/7c7db4f832.jpg
+  source_caption: a very big furry monkey that is outside
+  target_caption: a very big furry gorilla that is outside
+  optional_control: none
+- image_path: data/7fcb092f55.jpg
+  source_caption: a sea turtle swimming on the sand beneath water
+  target_caption: a sea snake swimming on the sand beneath water
+  optional_control: none
+- image_path: data/7fd13ce3c2.jpg
+  source_caption: an animal laying on top of some dirt
+  target_caption: an animal laying on top of some sand
+  optional_control: none
+- image_path: data/80f09ce706.jpg
+  source_caption: a close up of a panda bear on a tree stump
+  target_caption: a close up of a koala bear on a tree stump
+  optional_control: none
+- image_path: data/8a1db93448.jpg
+  source_caption: pelican standing on ledge near body of water
+  target_caption: stork standing on ledge near body of water
+  optional_control: none
+- image_path: data/8bad34ec63.jpg
+  source_caption: a close up of a monkey's face in some tree branches
+  target_caption: a close up of a chimp's face in some tree branches
+  optional_control: none
+- image_path: data/8cc0811cce.jpg
+  source_caption: pigs are looking at the camera while standing on the dirt
+  target_caption: cows are looking at the camera while standing on the dirt
+  optional_control: none
+- image_path: data/8d20de1743.jpg
+  source_caption: a small rodent is sitting in its cage
+  target_caption: a small rabbit is sitting in its cage
+  optional_control: none
+- image_path: data/8da3f09798.jpg
+  source_caption: a little squirrel sitting on a branch looking at something
+  target_caption: a little chipmunk sitting on a branch looking at something
+  optional_control: none
+- image_path: data/8e40fd968d.jpg
+  source_caption: a leopard sitting outside on some rocks looking off into the distance
+  target_caption: a cheetah sitting outside on some rocks looking off into the distance
+  optional_control: none
+- image_path: data/8fca64441a.jpg
+  source_caption: the head of a flamingo standing in front of some trees
+  target_caption: the head of a swan standing in front of some trees
+  optional_control: none
+- image_path: data/90a9968b1d.jpg
+  source_caption: a white hamster looks towards the camera with it's head tilted
+  target_caption: a white mouse looks towards the camera with it's head tilted
+  optional_control: none
+- image_path: data/92c30c59f8.jpg
+  source_caption: lion face with long mane in natural setting
+  target_caption: tiger face with long mane in natural setting
+  optional_control: none
+- image_path: data/92d38b9aeb.jpg
+  source_caption: a duck is floating in water with the reflection of the duck
+  target_caption: a swan is floating in water with the reflection of the swan
+  optional_control: none
+- image_path: data/941777c084.jpg
+  source_caption: a close up of a steer in a grass field
+  target_caption: a close up of a buffalo in a grass field
+  optional_control: none
+- image_path: data/961a895686.jpg
+  source_caption: a bison standing on a grass field with long sleeves
+  target_caption: a cow standing on a grass field with long sleeves
+  optional_control: none
+- image_path: data/96d9e3180b.jpg
+  source_caption: an oranguel monkey standing on its hind legs
+  target_caption: an orangutan monkey standing on its hind legs
+  optional_control: none
+- image_path: data/97ad403294.jpg
+  source_caption: a small possum standing up with one eye open
+  target_caption: a small raccoon standing up with one eye open
+  optional_control: none
+- image_path: data/97d6ef43cd.jpg
+  source_caption: a black bird standing on top of a dirt road
+  target_caption: a black crow standing on top of a dirt road
+  optional_control: none
+- image_path: data/98e559c1ea.jpg
+  source_caption: an insect is shown biting a human skin
+  target_caption: an insect is shown biting an animal skin
+  optional_control: none
+- image_path: data/9a421a3c06.jpg
+  source_caption: a dead cock beetle with very long legs and long antennae
+  target_caption: a dead stick beetle with very long legs and long antennae
+  optional_control: none
+- image_path: data/9a4c1e2c27.jpg
+  source_caption: a chimpan looking at the camera
+  target_caption: a gorilla looking at the camera
+  optional_control: none
+- image_path: data/9aeb8c737b.jpg
+  source_caption: a dog laying on the floor and holding onto a stuffed toy
+  target_caption: a cat laying on the floor and holding onto a stuffed toy
+  optional_control: none
+- image_path: data/9b25b31416.jpg
+  source_caption: a white swan swimming on top of a body of water
+  target_caption: a white goose swimming on top of a body of water
+  optional_control: none
+- image_path: data/9c409c11af.jpg
+  source_caption: a white swan floating in the water at dusk
+  target_caption: a white goose floating in the water at dusk
+  optional_control: none
+- image_path: data/9dff4eb761.jpg
+  source_caption: a gray fox with black eyes is in the grass
+  target_caption: a gray wolf with black eyes is in the grass
+  optional_control: none
+- image_path: data/9efd18dd6c.jpg
+  source_caption: the dog is happy with his new leash
+  target_caption: the cat is happy with his new leash
+  optional_control: none
+- image_path: data/9f1f10fc7b.jpg
+  source_caption: an animal walking in the grass in the sun
+  target_caption: an animal walking in the grass in the shade
+  optional_control: none
+- image_path: data/a3ada464bd.jpg
+  source_caption: a mouse is looking away from the camera
+  target_caption: a rat is looking away from the camera
+  optional_control: none
+- image_path: data/ac980805b6.jpg
+  source_caption: small mouse in hand on white surface
+  target_caption: small squirrel in hand on white surface
+  optional_control: none
+- image_path: data/fab6e81536.jpg
+  source_caption: an image of a goat with large horns
+  target_caption: an image of a sheep with large horns
+  optional_control: none
+- image_path: data/1803151818-00002011.jpg
+  source_caption: the beautiful lady is posing for a photo
+  target_caption: the beautiful gentleman is posing for a photo
+  optional_control: none
+- image_path: data/1803151818-00002014.jpg
+  source_caption: a woman with a tia sits on the bed and covers her face
+  target_caption: a woman with a hat sits on the bed and covers her face
+  optional_control: none
+- image_path: data/1803240957-00000021.jpg
+  source_caption: a male athlete prepares to serve a volleyball
+  target_caption: a female athlete prepares to serve a volleyball
+  optional_control: none
+- image_path: data/1803240957-00000040.jpg
+  source_caption: a man sitting at a table with a glass on the floor
+  target_caption: a woman sitting at a table with a glass on the floor
+  optional_control: none
+- image_path: data/1803240957-00000049.jpg
+  source_caption: a man is holding a tennis racket
+  target_caption: a woman is holding a tennis racket
+  optional_control: none
+- image_path: data/1803240957-00000060.jpg
+  source_caption: a woman with long black hair wearing a lacy top
+  target_caption: a woman with short black hair wearing a lacy top
+  optional_control: none
+- image_path: data/1803240957-00000068.jpg
+  source_caption: a woman with a pageant sash posing for the camera
+  target_caption: a man with a pageant sash posing for the camera
+  optional_control: none
+- image_path: data/1803240957-00000070.jpg
+  source_caption: a man on his cell phone is sitting in front of floral walls
+  target_caption: a woman on her cell phone is sitting in front of floral walls
+  optional_control: none
+- image_path: data/1803241028-00000073.jpg
+  source_caption: a woman in a dress with flower headband
+  target_caption: a man in a suit with flower headband
+  optional_control: none
+- image_path: data/1803241059-00000010.jpg
+  source_caption: a young girl sitting at a table with a remote control
+  target_caption: a young boy sitting at a table with a remote control
+  optional_control: none
+- image_path: data/1803241059-00000015.jpg
+  source_caption: a man standing wearing a suit and tie
+  target_caption: a woman standing wearing a suit and tie
+  optional_control: none
+- image_path: data/1803241059-00000047.jpg
+  source_caption: a man wearing glasses and carrying a black bag
+  target_caption: a woman wearing glasses and carrying a black bag
+  optional_control: none
+- image_path: data/1803241125-00000032.jpg
+  source_caption: a girl in glasses standing against a white wall
+  target_caption: a boy in glasses standing against a white wall
+  optional_control: none
+- image_path: data/1803241125-00000042.jpg
+  source_caption: a young man standing in front of a bridge with a backpack
+  target_caption: an old man standing in front of a bridge with a backpack
+  optional_control: none
+- image_path: data/1803241152-00000057.jpg
+  source_caption: a woman in glasses standing at a microphone
+  target_caption: a man in glasses standing at a microphone
+  optional_control: none
+- image_path: data/1803241152-00000061.jpg
+  source_caption: a woman with a smile next to a brick wall
+  target_caption: a man with a smile next to a brick wall
+  optional_control: none
+- image_path: data/1803241152-00000069.jpg
+  source_caption: a girl in black and white poses next to a wooden wall
+  target_caption: a girl in black and red poses next to a wooden wall
+  optional_control: none
+- image_path: data/1803241220-00000034.jpg
+  source_caption: young woman in black with cat ears and lips
+  target_caption: old woman in black with cat ears and lips
+  optional_control: none
+- image_path: data/1803241220-00000048.jpg
+  source_caption: a woman holding an umbrella and talking on her phone
+  target_caption: a man holding an umbrella and talking on his phone
+  optional_control: none
+- image_path: data/1803241220-00000070.jpg
+  source_caption: man in glasses wearing headphones, a teddy bear on the ceiling
+  target_caption: woman in glasses wearing headphones, a teddy bear on the ceiling
+  optional_control: none
+- image_path: data/1803241220-00000084.jpg
+  source_caption: a person with a guitar in his hands
+  target_caption: a person with a violin in his hands
+  optional_control: none
+- image_path: data/1803241248-00000002.jpg
+  source_caption: a man standing on top of a hill near a wooded forest
+  target_caption: a woman standing on top of a hill near a wooded forest
+  optional_control: none
+- image_path: data/1803241248-00000033.jpg
+  source_caption: a man with glasses, a striped tie and a suit
+  target_caption: a woman with glasses, a striped tie and a suit
+  optional_control: none
+- image_path: data/1803241248-00000038.jpg
+  source_caption: a man wearing glasses looking at the camera
+  target_caption: a woman wearing glasses looking at the camera
+  optional_control: none
+- image_path: data/1803241248-00000053.jpg
+  source_caption: a woman holding an apple smiling at someone
+  target_caption: a man holding an apple smiling at someone
+  optional_control: none
+- image_path: data/1803241248-00000089.jpg
+  source_caption: a man posing in front of a brick wall
+  target_caption: a woman posing in front of a brick wall
+  optional_control: none
+- image_path: data/1803241314-00000003.jpg
+  source_caption: man in winter coat smiling with older person watching
+  target_caption: woman in winter coat smiling with older person watching
+  optional_control: none
+- image_path: data/1803241314-00000071.jpg
+  source_caption: the woman in leather poses with her cat ears up
+  target_caption: the man in leather poses with his cat ears up
+  optional_control: none
+- image_path: data/1803241341-00000000.jpg
+  source_caption: an older man with a bald head wearing a suit and tie
+  target_caption: an older woman with a bald head wearing a suit and tie
+  optional_control: none
+- image_path: data/1803241341-00000036.jpg
+  source_caption: a person taking a selfie in front of a sea
+  target_caption: a person taking a selfie in front of a lake
+  optional_control: none
+- image_path: data/1803241408-00000004.jpg
+  source_caption: a close up of a male action figure with a shirt on
+  target_caption: a close up of a female action figure with a shirt on
+  optional_control: none
+- image_path: data/1803241408-00000070.jpg
+  source_caption: a man speaking into a microphone in front of a projected wall
+  target_caption: a woman speaking into a microphone in front of a projected wall
+  optional_control: none
+- image_path: data/1803241408-00000088.jpg
+  source_caption: a man standing in front of a lot of boats
+  target_caption: a woman standing in front of a lot of boats
+  optional_control: none
+- image_path: data/1803241408-00000102.jpg
+  source_caption: a young man is holding a microphone in his right hand and wearing
+    a jacket
+  target_caption: a young woman is holding a microphone in her right hand and wearing
+    a jacket
+  optional_control: none
+- image_path: data/1803241610-00000062.jpg
+  source_caption: man with brown vest and tan shirt smiling at camera
+  target_caption: man with green vest and tan shirt smiling at camera
+  optional_control: none
+- image_path: data/1803241610-00000074.jpg
+  source_caption: a man wearing a blue button up shirt
+  target_caption: a woman wearing a blue button up shirt
+  optional_control: none
+- image_path: data/1803241707-00000006.jpg
+  source_caption: a man that is standing up in a room
+  target_caption: a woman that is standing up in a room
+  optional_control: none
+- image_path: data/1803241807-00000002.jpg
+  source_caption: a man in a grey suit and blue tie
+  target_caption: a woman in a grey suit and blue tie
+  optional_control: none
+- image_path: data/1803241807-00000030.jpg
+  source_caption: a young man standing next to a street with palm trees
+  target_caption: an old man standing next to a street with palm trees
+  optional_control: none
+- image_path: data/1803241807-00000068.jpg
+  source_caption: a man smiles on the basketball court while wearing a black shirt
+  target_caption: a woman smiles on the basketball court while wearing a black shirt
+  optional_control: none
+- image_path: data/1803241840-00000002.jpg
+  source_caption: a man is smiling while he holds a baseball bat
+  target_caption: a woman is smiling while she holds a baseball bat
+  optional_control: none
+- image_path: data/1803241840-00000019.jpg
+  source_caption: a man in a blue striped tie has an ear ring
+  target_caption: a woman in a blue striped tie has an ear ring
+  optional_control: none
+- image_path: data/1803241840-00000027.jpg
+  source_caption: a man wearing a black sweater posing for the camera
+  target_caption: a woman wearing a black sweater posing for the camera
+  optional_control: none
+- image_path: data/1803241840-00000057.jpg
+  source_caption: a young boy is holding a water bottle
+  target_caption: a young girl is holding a water bottle
+  optional_control: none
+- image_path: data/1803241840-00000058.jpg
+  source_caption: the man is sitting in the airport while looking into the camera
+  target_caption: the woman is sitting in the airport while looking into the camera
+  optional_control: none
+- image_path: data/1803241914-00000000.jpg
+  source_caption: the girl is holding her phone on the dock
+  target_caption: the boy is holding his phone on the dock
+  optional_control: none
+- image_path: data/1803241914-00000011.jpg
+  source_caption: young girl holding a baseball on grassy field
+  target_caption: young boy holding a baseball on grassy field
+  optional_control: none
+- image_path: data/1803241914-00000035.jpg
+  source_caption: an older man with a beard looking at something
+  target_caption: an older woman with a beard looking at something
+  optional_control: none
+- image_path: data/1803151818-00000008.jpg
+  source_caption: a woman with her nose covered by a scarf
+  target_caption: a man with his nose covered by a scarf
+  optional_control: none
+- image_path: data/1803151818-00000023.jpg
+  source_caption: the man is wearing a black suit and white shirt
+  target_caption: the woman is wearing a black suit and white shirt
+  optional_control: none
+- image_path: data/1803151818-00000024.jpg
+  source_caption: a young man in a jersey looking into the camera
+  target_caption: a young woman in a jersey looking into the camera
+  optional_control: none
+- image_path: data/1803151818-00001004.jpg
+  source_caption: the woman is wearing a bra over her dress
+  target_caption: the man is wearing a vest over his shirt
+  optional_control: none
+- image_path: data/1803151818-00001016.jpg
+  source_caption: the man with a beard is posing for the camera
+  target_caption: the woman with a ponytail is posing for the camera
+  optional_control: none
+- image_path: data/1803151818-00003004.jpg
+  source_caption: a woman with long hair in a blue dress
+  target_caption: a man with short hair in a blue shirt
+  optional_control: none
+- image_path: data/1803191139-00000011.jpg
+  source_caption: a pretty woman wearing a black swim suit
+  target_caption: a handsome man wearing a black swim suit
+  optional_control: none
+- image_path: data/1803191139-00001010.jpg
+  source_caption: the girl is wearing a white shirt with flowers on it
+  target_caption: the boy is wearing a white shirt with stars on it
+  optional_control: none
+- image_path: data/1803191139-00001033.jpg
+  source_caption: a woman with sunglasses in a flower filled field
+  target_caption: a man with sunglasses in a grass-filled field
+  optional_control: none
+- image_path: data/1803191139-00001052.jpg
+  source_caption: a woman taking a picture with her cell phone
+  target_caption: a man taking a picture with his cell phone
+  optional_control: none
+- image_path: data/1803201916-00000006.jpg
+  source_caption: a girl that is leaning her head against a green wall
+  target_caption: a boy that is leaning his head against a blue wall
+  optional_control: none
+- image_path: data/1803231608-00000008.jpg
+  source_caption: a woman stands in front of an apple
+  target_caption: a man stands in front of an orange
+  optional_control: none
+- image_path: data/1803231608-00000009.jpg
+  source_caption: woman smiling while wearing a floral dress with long red hair
+  target_caption: man smiling while wearing a striped shirt with short black hair
+  optional_control: none
+- image_path: data/1803231608-00000048.jpg
+  source_caption: there is a young girl posing for a photo
+  target_caption: there is an old woman posing for a photo
+  optional_control: none
+- image_path: data/1803231608-00000066.jpg
+  source_caption: a girl in glasses with a cellphone in her hand
+  target_caption: a boy in glasses with a tablet in his hand
+  optional_control: none
+- image_path: data/1803231608-00000069.jpg
+  source_caption: a man wearing a suit and holding a microphone
+  target_caption: a woman wearing a dress and holding a microphone
+  optional_control: none
+- image_path: data/1803232218-00000028.jpg
+  source_caption: a man standing in a suit in front of a microphone and keyboard
+  target_caption: a woman standing in a dress in front of a microphone and keyboard
+  optional_control: none
+- image_path: data/1803232218-00000038.jpg
+  source_caption: a man takes a selfie in the air with a cell phone
+  target_caption: a woman takes a selfie in the air with a cell phone
+  optional_control: none
+- image_path: data/1803232218-00000060.jpg
+  source_caption: a couple having a glass of wine with each other
+  target_caption: a couple having a cup of coffee with each other
+  optional_control: none
+- image_path: data/1803232218-00000083.jpg
+  source_caption: man in grey jacket speaking into microphone while standing
+  target_caption: woman in blue jacket speaking into microphone while standing
+  optional_control: none
+- image_path: data/1803232244-00000078.jpg
+  source_caption: two military men smile while standing in a room
+  target_caption: two military women smile while standing in a room
+  optional_control: none
+- image_path: data/1803232244-00000120.jpg
+  source_caption: a woman in a red jacket is leaning against a tree
+  target_caption: a man in a red jacket is leaning against a tree
+  optional_control: none
+- image_path: data/1803232313-00000060.jpg
+  source_caption: a young boy is looking into the camera
+  target_caption: a young girl is looking into the camera
+  optional_control: none
+- image_path: data/1803232313-00000075.jpg
+  source_caption: a man with a beard is wearing a blue shirt
+  target_caption: a woman with a ponytail is wearing a blue shirt
+  optional_control: none
+- image_path: data/1803240710-00000013.jpg
+  source_caption: a man standing up holding something in his hands
+  target_caption: a woman standing up holding something in her hands
+  optional_control: none
+- image_path: data/1803240710-00000024.jpg
+  source_caption: a smiling woman posing for a picture in front of a wall with flowers
+  target_caption: a smiling man posing for a picture in front of a wall with flowers
+  optional_control: none
+- image_path: data/1803240710-00000055.jpg
+  source_caption: man sitting behind a desk holding a white paper
+  target_caption: woman sitting behind a desk holding a white paper
+  optional_control: none
+- image_path: data/1803240710-00000088.jpg
+  source_caption: a little boy holds a skeleton toy in front of a dinosaur model
+  target_caption: a little girl holds a teddy bear toy in front of a dinosaur model
+  optional_control: none
+- image_path: data/1803240740-00000006.jpg
+  source_caption: a smiling bride looking off to the side at the camera
+  target_caption: a smiling groom looking off to the side at the camera
+  optional_control: none
+- image_path: data/1803240740-00000025.jpg
+  source_caption: a very pretty woman posing in a pink top
+  target_caption: a very handsome man posing in a pink top
+  optional_control: none
+- image_path: data/1803240808-00000011.jpg
+  source_caption: a woman holding a plate of food that has been eaten
+  target_caption: a man holding a plate of food that has been eaten
+  optional_control: none
+- image_path: data/1803240808-00000070.jpg
+  source_caption: the smiling woman is posing in front of the crowded mountain
+  target_caption: the smiling man is posing in front of the crowded mountain
+  optional_control: none
+- image_path: data/1803240808-00000099.jpg
+  source_caption: a woman wearing a bright red shirt poses for a photo
+  target_caption: a man wearing a bright red shirt poses for a photo
+  optional_control: none
+- image_path: data/1803240808-00000109.jpg
+  source_caption: there is a woman holding up an award and some bottles
+  target_caption: there is a man holding up an award and some bottles
+  optional_control: none
+- image_path: data/1803240834-00000001.jpg
+  source_caption: a smiling man with glasses wearing a suit and tie
+  target_caption: a smiling woman with glasses wearing a suit and tie
+  optional_control: none
+- image_path: data/1803240834-00000043.jpg
+  source_caption: a close up of a person with glasses on
+  target_caption: a close up of a person with sunglasses on
+  optional_control: none
+- image_path: data/1803240901-00000026.jpg
+  source_caption: a close up of a person wearing a pink top
+  target_caption: a close up of a person wearing a green top
+  optional_control: none
+- image_path: data/1803240901-00000065.jpg
+  source_caption: the man stands next to the laptop wearing glasses
+  target_caption: the woman stands next to the laptop wearing glasses
+  optional_control: none
+- image_path: data/1803240928-00000021.jpg
+  source_caption: the woman sits on a bench next to the table
+  target_caption: the man sits on a bench next to the table
+  optional_control: none
+- image_path: data/1803240928-00000052.jpg
+  source_caption: a person with glasses wearing a suit and tie
+  target_caption: a person with sunglasses wearing a suit and tie
+  optional_control: none
+- image_path: data/1803240928-00000058.jpg
+  source_caption: a young man smiling wearing a shirt with a neck tie
+  target_caption: a young woman smiling wearing a shirt with a neck tie
+  optional_control: none
+- image_path: data/1803240928-00000064.jpg
+  source_caption: the woman is looking in camera with wide eyes
+  target_caption: the man is looking in camera with wide eyes
+  optional_control: none
+- image_path: data/1803240928-00000067.jpg
+  source_caption: a woman sitting at a table outside eating
+  target_caption: a man sitting at a table outside eating
+  optional_control: none
+- image_path: data/1803240928-00000102.jpg
+  source_caption: a young woman is eating a hotdog and smiling
+  target_caption: an old man is eating a hotdog and smiling
+  optional_control: none
+- image_path: data/1803240957-00000011.jpg
+  source_caption: a close up of a man wearing a suit and tie
+  target_caption: a close up of a woman wearing a suit and tie
+  optional_control: none
+- image_path: data/1803241028-00000013.jpg
+  source_caption: a woman smiling wearing a striped neck scarf
+  target_caption: a man smiling wearing a striped neck scarf
+  optional_control: none
+- image_path: data/1803241028-00000095.jpg
+  source_caption: an older woman smiles at the camera
+  target_caption: an older man smiles at the camera
+  optional_control: none
+- image_path: data/1803241059-00000035.jpg
+  source_caption: a man wearing a vest smiling for the camera
+  target_caption: a woman wearing a vest smiling for the camera
+  optional_control: none
+- image_path: data/001.png
+  source_caption: the eiffel tower
+  target_caption: a tree
+  optional_control: none
+- image_path: data/004.png
+  source_caption: the eiffel tower near the lake
+  target_caption: a tree
+  optional_control: none
+- image_path: data/005.png
+  source_caption: egyptian pyramids
+  target_caption: palaces
+  optional_control: none
+- image_path: data/006.png
+  source_caption: egyptian pyramids
+  target_caption: palaces
+  optional_control: none
+- image_path: data/008.png
+  source_caption: egyptian pyramids
+  target_caption: crystal pyramid
+  optional_control: none
+- image_path: data/009.png
+  source_caption: Big Ben
+  target_caption: a tree
+  optional_control: none
+- image_path: data/010.png
+  source_caption: Big Ben at dusk
+  target_caption: lighthouse
+  optional_control: none
+- image_path: data/011.jpg
+  source_caption: Roman arena
+  target_caption: Ruins
+  optional_control: none
+- image_path: data/012.jpg
+  source_caption: Roman arena
+  target_caption: Ruins
+  optional_control: none
+- image_path: data/014.jpg
+  source_caption: Statue of Liberty
+  target_caption: an american flag
+  optional_control: none
+- image_path: data/015.jpg
+  source_caption: Statue of Liberty
+  target_caption: statue of jesus christ
+  optional_control: none
+- image_path: data/016.jpg
+  source_caption: Tower Bridge
+  target_caption: the gate of the palace
+  optional_control: none
+- image_path: data/018.png
+  source_caption: Sydney Opera House
+  target_caption: a boat
+  optional_control: none
+- image_path: data/019.jpg
+  source_caption: Sydney Opera House at night
+  target_caption: a boat
+  optional_control: none
+- image_path: data/020.jpg
+  source_caption: Sydney Opera House
+  target_caption: a boat
+  optional_control: none
+- image_path: data/022.jpg
+  source_caption: leaning tower of pisa
+  target_caption: a tree
+  optional_control: none
+- image_path: data/023.jpg
+  source_caption: leaning tower of pisa at night
+  target_caption: a tree
+  optional_control: none
+- image_path: data/026.jpg
+  source_caption: Shanghai Oriental Pearl Tower, at night
+  target_caption: Eiffel Tower
+  optional_control: none
+- image_path: data/027.jpg
+  source_caption: Shanghai Oriental Pearl Tower
+  target_caption: Eiffel Tower
+  optional_control: none
+- image_path: data/028.png
+  source_caption: White House
+  target_caption: chinese palace
+  optional_control: none
+- image_path: data/029.png
+  source_caption: Da-yan Tower
+  target_caption: lighthouse
+  optional_control: none
+- image_path: data/030.jpg
+  source_caption: Angkor Wat
+  target_caption: Temples and towers made of stone
+  optional_control: none
+- image_path: data/031.jpg
+  source_caption: Edinburgh Castle
+  target_caption: a palace on the mountain
+  optional_control: none
+- image_path: data/032.jpg
+  source_caption: ancient Edinburgh Castle
+  target_caption: an ancient palace on fire
+  optional_control: none
+- image_path: data/034.jpg
+  source_caption: New Swan Stone Castle
+  target_caption: a Castle on the fire
+  optional_control: none
+- image_path: data/035.jpg
+  source_caption: Statue of St. Jesus of Brazil
+  target_caption: Statue of liberty
+  optional_control: none
+- image_path: data/036.jpg
+  source_caption: Statue of St. Jesus of Brazil
+  target_caption: a lighthouse
+  optional_control: none
+- image_path: data/image00072.jpeg
+  source_caption: a wooden yellow chair
+  target_caption: a wooden black chair
+  optional_control: none
+- image_path: data/image00092.jpeg
+  source_caption: a white chair
+  target_caption: a white sofa
+  optional_control: none
+- image_path: data/image00083.jpeg
+  source_caption: a grey chair
+  target_caption: a grey sofa
+  optional_control: none
+- image_path: data/image00062.jpeg
+  source_caption: A orange chair
+  target_caption: A red chair
+  optional_control: none
+- image_path: data/image00051.jpeg
+  source_caption: a black cabinet with many cups and vases on it
+  target_caption: a white cabinet with many cups and vases on it
+  optional_control: none
+- image_path: data/037.jpg
+  source_caption: A bear doll in a red dress
+  target_caption: A rabbit doll in a red dress
+  optional_control: none
+- image_path: data/038.jpg
+  source_caption: A rabbit doll sits on the desk
+  target_caption: A bear doll sits on the desk
+  optional_control: none
+- image_path: data/039.jpg
+  source_caption: A corgi dog doll
+  target_caption: A cat toy
+  optional_control: none
+- image_path: data/040.jpg
+  source_caption: A rose
+  target_caption: A peony
+  optional_control: none
+- image_path: data/041.png
+  source_caption: a tree
+  target_caption: a lemon tree
+  optional_control: none
+- image_path: data/042.jpg
+  source_caption: a willow
+  target_caption: a lemon tree
+  optional_control: none
+- image_path: data/043.jpg
+  source_caption: a book
+  target_caption: potted plant on a table
+  optional_control: none
+- image_path: data/044.jpg
+  source_caption: a multi-layer hamburger
+  target_caption: a three-layer sandwich
+  optional_control: none
+- image_path: data/045.jpg
+  source_caption: tomato on the branch
+  target_caption: apple on the branch
+  optional_control: none
+- image_path: data/046.png
+  source_caption: Eiffel Tower under the blue sky
+  target_caption: a tree under the blue sky
+  optional_control: none
+- image_path: data/047.png
+  source_caption: a cat is sitting on the grass
+  target_caption: 'a tiger is sitting on the grass '
+  optional_control: none
+- image_path: data/048.jpg
+  source_caption: Chinese beautiful girl with black long hair
+  target_caption: black African woman with black long hair
+  optional_control: none
+- image_path: data/049.jpg
+  source_caption: a young girl with blond hair
+  target_caption: a wrinkled elderly woman with white hair
+  optional_control: none
