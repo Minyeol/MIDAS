@@ -1,4 +1,6 @@
 # Training-Free Coverless Multi-Image Steganography with Access Control
+This repository is the official implementation of Training-Free Coverless Multi-Image Steganography with Access Control (ICML 2026, Poster).
+Paper: https://arxiv.org/abs/2603.09390
 
 ## 1. Environment Setup
 
